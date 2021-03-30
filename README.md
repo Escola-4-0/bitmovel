@@ -8,6 +8,8 @@ Com esta placa você pode fazer um robô controlado pela micro:bit que é fácil
 - Fornece alimentação regulada 3.3V para micro:bit;
 - CI ponte-h para dois motores DC.
 
+<img src="https://github.com/Escola-4-0/bitmovel/blob/main/3d-rend.png" width="400">
+
 ## Lista de materiais
 
 REF | componente
