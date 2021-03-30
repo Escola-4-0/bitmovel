@@ -1,0 +1,21 @@
+(module Personal:motor (layer F.Cu) (tedit 6052AC35)
+  (fp_text reference REF** (at 0.75 4) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value motor (at -1 -3.75) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 -9.4) (end 64.2 -9.4) (layer F.Fab) (width 0.12))
+  (fp_line (start 64.2 -9.4) (end 64.2 9.4) (layer F.Fab) (width 0.12))
+  (fp_line (start 64.2 9.4) (end 0 9.4) (layer F.Fab) (width 0.12))
+  (fp_line (start 0 1.5) (end -5 1.5) (layer F.Fab) (width 0.12))
+  (fp_line (start -5 -1.5) (end 0 -1.5) (layer F.Fab) (width 0.12))
+  (fp_line (start -5 -1.5) (end -5 1.5) (layer F.Fab) (width 0.12))
+  (fp_line (start 0 -1.5) (end 0 -9.4) (layer F.Fab) (width 0.12))
+  (fp_line (start 0 1.5) (end 0 9.4) (layer F.Fab) (width 0.12))
+  (model "C:/Users/Samuel/Google Drive/Escola40/modelos 3D/gear-motor-dg01d-a130-1.snapshot.1/MotorModel.step"
+    (offset (xyz -0.5 9.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+)

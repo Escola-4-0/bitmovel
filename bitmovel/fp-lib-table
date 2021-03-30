@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name bitmovel)(type KiCad)(uri ${KIPRJMOD}/bitmovel.pretty)(options "")(descr ""))
+)

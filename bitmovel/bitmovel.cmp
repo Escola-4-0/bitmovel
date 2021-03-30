@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = 30/03/2021 00:15:24
+
+BeginCmp
+TimeStamp = 5FFCE32A
+Path = /5FE46B91
+Reference = U2;
+ValeurCmp = L293D;
+IdModule  = bitmovel:DIP-16_W7.62mm_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = 60536D96
+Path = /5FE37F5B
+Reference = U1;
+ValeurCmp = LM1117-3.3;
+IdModule  = bitmovel:TO-220-3_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6053712B
+Path = /5FF745B8
+Reference = SW1;
+ValeurCmp = SW_SPST;
+IdModule  = bitmovel:Slide_Switch;
+EndCmp
+
+BeginCmp
+TimeStamp = 6062FD4C
+Path = /5FFBBF5E
+Reference = R2;
+ValeurCmp = R_US;
+IdModule  = bitmovel:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FF6B3D0
+Path = /5FFBB56C
+Reference = R1;
+ValeurCmp = R_US;
+IdModule  = bitmovel:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6013D7A0
+Path = /5FE9D3C5
+Reference = J4;
+ValeurCmp = motor E;
+IdModule  = bitmovel:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FFCE9F3
+Path = /5FE9C9F5
+Reference = J3;
+ValeurCmp = motor D;
+IdModule  = bitmovel:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5FF6DB01
+Path = /5FE8CFCA
+Reference = J2;
+ValeurCmp = micro:bit;
+IdModule  = bitmovel:microbit_edge_rings;
+EndCmp
+
+BeginCmp
+TimeStamp = 605518E6
+Path = /5FE64E42
+Reference = J1;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = bitmovel:microUSB-breakout-2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 6053F20B
+Path = /60138C8F
+Reference = D3;
+ValeurCmp = D_Small;
+IdModule  = bitmovel:D_A-405_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 6062FFEC
+Path = /5FFBA94F
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = bitmovel:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6062FAB7
+Path = /5FFB85C6
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = bitmovel:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 60548B15
+Path = /5FF71E65
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = bitmovel:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 605446B5
+Path = /5FF82F3C
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = bitmovel:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6053FC64
+Path = /5FE38A1F
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = bitmovel:CP_Radial_D5.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 603AF8DD
+Path = 
+Reference = [NoRef];
+ValeurCmp = motor;
+IdModule  = Personal:motor;
+EndCmp
+
+BeginCmp
+TimeStamp = 60394747
+Path = 
+Reference = REF**;
+ValeurCmp = motor;
+IdModule  = Personal:motor;
+EndCmp
+
+BeginCmp
+TimeStamp = 6041128E
+Path = 
+Reference = REF**;
+ValeurCmp = motor E;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60410F3F
+Path = 
+Reference = REF**;
+ValeurCmp = motor D;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6013C437
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Personal:logo_escola;
+EndCmp
+
+EndListe
