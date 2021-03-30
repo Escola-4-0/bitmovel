@@ -23,7 +23,7 @@ D3 | Diodo 1N5817 (1N5818 - 1N5822 compatíveis)
 J1 | Módulo adaptador micro USB fêmea para DIP
 R1 | Resistor 330Ω
 R2 | Resistor 330Ω
-SW1 | Chave HH 3 terminais (3 mm entre vias)
+SW1 | Chave HH SS12F46 - 3 terminais
 U1 | LM1117-3.3 (regulador de tensão 3.3V)
 U2 | L293D (driver para motor DC)
 
@@ -32,7 +32,7 @@ U2 | L293D (driver para motor DC)
 Seis pinos da micro:bit dão os sinais de entrada do driver L293D que controla os motores, conforme a tabela: 
 
 pino micro:bit | pino L293D
--- | --
+:--: | :--:
 P0 | 2A
 P1 | 1A
 P2 | 4A
@@ -56,5 +56,5 @@ PWM | 0 | 1 | girar anti-horário*
 
 *O sentido prático depende da ligação do motor. X = não importa.
 
-No MakeCode, a programação pode ser feita com os blocos `gravação digital pin` e `gravação analógica pin` seguindo as combinações da tabela acima,
-ou usando a [extensão Escola 4.0](https://github.com/Escola-4-0/pxt-Escola_4pontozero), que torna a programação mais fácil com os blocos da categoria "BitMóvel".
+No MakeCode, o BitMóvel pode ser programado com os blocos `gravação digital pin` e `gravação analógica pin` seguindo as combinações da tabela acima,
+ou usando a [extensão Escola 4.0](https://github.com/Escola-4-0/pxt-Escola_4pontozero), que facilita a programação com os blocos da categoria "BitMóvel".
