@@ -56,5 +56,4 @@ PWM | 0 | 1 | girar anti-horário*
 
 *O sentido prático depende da ligação do motor. X = não importa.
 
-No MakeCode, o BitMóvel pode ser programado com os blocos `gravação digital pin` e `gravação analógica pin` seguindo as combinações da tabela acima,
-ou usando a [extensão Escola 4.0](https://github.com/Escola-4-0/pxt-Escola_4pontozero), que facilita a programação com os blocos da categoria "BitMóvel".
+No MakeCode, o BitMóvel pode ser programado com os blocos `gravação digital pin` e `gravação analógica pin`, seguindo as combinações da tabela acima, ou com a [extensão Escola 4.0](https://github.com/Escola-4-0/pxt-Escola_4pontozero), usando os blocos da categoria "BitMóvel".
