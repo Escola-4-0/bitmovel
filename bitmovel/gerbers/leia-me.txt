@@ -1,0 +1,6 @@
+Cada pasta compactada contém os arquivos em uma versão do formato gerber, RS274-X ou X2. Verifique com a fabricante qual é o formato compatível.
+
+O projeto contém duas camadas de cobre, mas é possível fabricar a placa em face simples sem perda de funcionalidade, apenas com a camada inferior (bottom layer). Neste caso, ignorar os arquivos:
+- bitmovel-F_Cu.gbr
+- bitmovel-F_Mask.gbr
+- bitmovel-F_SilkS.gbr
