@@ -2,7 +2,7 @@
 Com esta placa você pode fazer um robô controlado pela micro:bit que é fácil de montar e simples de programar com a extensão Escola 4.0 para o MakeCode. A própria placa serve como chassi do robô e dispensa a necessidade de conectores especiais para a micro:bit.
 
 ## Características da placa
-- Placa em face simples - para facilitar a fabricação caseira;
+- Placa em face simples;
 - Componentes em PTH - para montagem manual;
 - Fixação da micro:bit usando parafusos;
 - Fornece alimentação regulada 3.3V para micro:bit;
