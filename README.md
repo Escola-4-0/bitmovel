@@ -1,5 +1,5 @@
 # BitMóvel
-Com esta placa você pode fazer um robô controlado pela micro:bit que é fácil de montar e simples de programar com a extensão Escola 4.0 para o MakeCode. A própria placa serve como chassi do robô e dispensa a necessidade de conectores especiais para a micro:bit.
+Com esta placa você pode fazer um robô controlado pela micro:bit que é fácil de montar e programar usando a extensão Escola 4.0 para o MakeCode. A própria placa serve como chassi do robô e dispensa a necessidade de conectores especiais para a micro:bit. A pasta [bitmovel](https://github.com/Escola-4-0/bitmovel/tree/main/bitmovel) contém o projeto da PCB para o KiCAD, bem como arquivos gerber prontos para fabricação.
 
 ## Características da placa
 - Placa em face simples;
